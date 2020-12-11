@@ -1,0 +1,12 @@
+C:\projects\section2fizz\section23\bin\Debug\netcoreapp3.1\section23.exe
+C:\projects\section2fizz\section23\bin\Debug\netcoreapp3.1\section23.deps.json
+C:\projects\section2fizz\section23\bin\Debug\netcoreapp3.1\section23.runtimeconfig.json
+C:\projects\section2fizz\section23\bin\Debug\netcoreapp3.1\section23.runtimeconfig.dev.json
+C:\projects\section2fizz\section23\bin\Debug\netcoreapp3.1\section23.dll
+C:\projects\section2fizz\section23\bin\Debug\netcoreapp3.1\section23.pdb
+C:\projects\section2fizz\section23\obj\Debug\netcoreapp3.1\section23.AssemblyInfoInputs.cache
+C:\projects\section2fizz\section23\obj\Debug\netcoreapp3.1\section23.AssemblyInfo.cs
+C:\projects\section2fizz\section23\obj\Debug\netcoreapp3.1\section23.csproj.CoreCompileInputs.cache
+C:\projects\section2fizz\section23\obj\Debug\netcoreapp3.1\section23.dll
+C:\projects\section2fizz\section23\obj\Debug\netcoreapp3.1\section23.pdb
+C:\projects\section2fizz\section23\obj\Debug\netcoreapp3.1\section23.genruntimeconfig.cache
